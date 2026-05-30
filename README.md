@@ -152,3 +152,18 @@ README.md
 The Random Forest model achieved approximately 80% accuracy in predicting customer churn.
 
 SHAP explainability provided insights into the key factors influencing churn decisions and enabled transparent interpretation of machine learning predictions.
+
+---
+
+## SHAP Summary Plot
+
+![SHAP Summary](images/shap_summary_plot.png)
+
+## Feature Importance
+
+![Feature Importance](images/feature_importance.png)
+
+## Confusion Matrix
+
+![Confusion Matrix](images/confusion_matrix.png)
+
