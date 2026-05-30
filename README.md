@@ -81,6 +81,20 @@ Features include:
 
 ---
 
+## Results
+
+Random Forest Accuracy: 79.9%
+
+Top Influential Features:
+
+1. TotalCharges
+2. MonthlyCharges
+3. tenure
+4. Contract
+5. PaymentMethod
+
+---
+
 ## Evaluation Metrics
 
 * Accuracy
