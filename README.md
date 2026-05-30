@@ -1,6 +1,9 @@
 # Customer-Churn-Prediction-with-SHAP
 Customer Churn Prediction using Random Forest and SHAP Explainability
 
+## Project Workflow
+
+Dataset → Data Cleaning → EDA → Feature Engineering → Random Forest → SHAP Explainability → Business Insights
 
 # Customer Churn Prediction with Explainable AI (SHAP)
 
